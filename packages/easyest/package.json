@@ -1,0 +1,28 @@
+{
+  "name": "klui",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "module": "es/index.mjs",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "easyest",
+    "vue3组件库"
+  ],
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "author": "vinkey",
+  "license": "MIT",
+  "description": "",
+  "typings": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vinkey/klui"
+  },
+  "dependencies": {
+    "@easyest/utils": "^1.0.2"
+  }
+}
